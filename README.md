@@ -1,7 +1,7 @@
 # cloudprojects
-# SQL Server Database Connection Demo
+# Azure SQL Database Connection Demo
 
-This repository demonstrates how to connect to an SQL Server database using the `pypyodbc` library, fetch data, and display it in a pandas DataFrame.
+This repository demonstrates how to connect to an Azure SQL Database using the `pypyodbc` library, fetch data, and display it in a pandas DataFrame.
 
 # Project Setup Instructions
 
