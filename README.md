@@ -37,6 +37,5 @@ Replace 'your_username' and 'your_password' with your actual SQL Server credenti
 
 ### 5. Run the demo script
 Run the demo script to connect to the SQL Server database and retrieve data:
-```python demo.py
-```
+```python demo.py```
 The script will execute a query to retrieve the ProductId and Name columns from the SalesLT.Product table and display the result in a pandas DataFrame.
